@@ -31,7 +31,7 @@
 
 [[constraint]]
   name = "github.com/go-pg/pg"
-  version = "8.0.5"
+  version = "8.0.6"
 
 [[constraint]]
   name = "github.com/joho/godotenv"
