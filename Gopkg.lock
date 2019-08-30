@@ -3,7 +3,7 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:1fc2dfe5b67e686e758444135f98ed91f30dce31ebc7dafeeb99eb0fe8712a17"
+  digest = "1:d8dfdd39e56814f3c6957907bb19dadd27aefca985fcaccb0527b1710dfafae2"
   name = "github.com/PaulSonOfLars/gotgbot"
   packages = [
     ".",
@@ -13,7 +13,7 @@
     "parsemode",
   ]
   pruneopts = "UT"
-  revision = "b29cb3517f56b4cf889e7bbc9fce70a80672c7a4"
+  revision = "1bac5e4973d09f46debafde4664a11adf35e09c2"
 
 [[projects]]
   digest = "1:2391a16d6bb332e406ba71d6102d520442e5b62514de3808078fb71f6e355c6d"
